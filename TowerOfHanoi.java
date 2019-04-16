@@ -28,7 +28,7 @@ public class TowerOfHanoi {
 		toh.move(3, 'A', 'C', 'B');
 		
 		//Map<String, String> a = Collections.EMPTY_MAP;
-		Map<String, String> a = new HashMap<String, String>();
+	/*	Map<String, String> a = new HashMap<String, String>();
 		a.put("A", "AA");
 		a.put("B", "BB");
 		
@@ -41,6 +41,6 @@ public class TowerOfHanoi {
 		a.put("C", "CC");
 		immutableMap.put("B", "DD");
         // Print the ImmutableMap 
-        System.out.println(immutableMap); 
+        System.out.println(immutableMap); */
 	}
 }
